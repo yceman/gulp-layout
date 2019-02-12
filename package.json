@@ -1,0 +1,24 @@
+{
+  "name": "layout-cli",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yceman/gulp-layout.git"
+  },
+  "author": "Marcos Morais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yceman/gulp-layout/issues"
+  },
+  "homepage": "https://github.com/yceman/gulp-layout#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "jeet": "^7.2.0",
+    "node-sass": "^4.11.0"
+  }
+}
